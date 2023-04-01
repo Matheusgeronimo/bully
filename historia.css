@@ -1,0 +1,21 @@
+
+
+
+
+body{
+    color: aliceblue;
+    background-image: url(imagens/wallpaperflare.com3_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 100;
+    }
+
+ 
+h1{
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 5px 6px 3px #000;
+    } 
+
+
