@@ -43,22 +43,26 @@ h1{
 .texto{
 width: 40%;
 position: absolute;
-left: 100px;
+left: 50px;
 font-size: 23px;
 text-shadow: 5px 6px 3px #000;
-background-color: rgba(0, 0, 0, 0.349);
-height: 100;
+background-color: rgba(0, 0, 0, 0.562);
+height: 89%;
+color: #939e7f;
+
 }
 
 
 .texto2{
-    width: 40%;
+    width: 45%;
     position: absolute;
-    left: 800px;
+    left: 700px;
     font-size: 23px;
     text-shadow: 5px 6px 3px #000;
-    background-color: rgba(0, 0, 0, 0.349);
-    height: 50;
+    background-color: rgba(0, 0, 0, 0.562);
+    height: 100;
+    color: #939e7f;
+    
 }
 
 
@@ -87,12 +91,69 @@ height: 100;
 
  .btn:hover{
     background: rgba(0, 0, 0, 0.623);
-    
+    width: 50;
 }
+
+.btn2{
+    border-radius: 10px;
+    padding: 20px 20px;
+    background: none;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    font-size: 30px;
+    text-shadow: 6px 5px 3px black;
+    Display: inline-block;
+    Margin: 10px;
+    Padding: 15px;
+    width: 50;
+    height: 30%;
+    background-color: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   color: #fff;
+   margin-top: 50%;
+}
+
+.btn2:hover{
+    background: rgba(0, 0, 0, 0.623);
+    width: 50;
+}
+
+
+
+
 a{
     Display: inline-block;
     Text-decoration: none;
     color: white;
 }
+
+.texto:hover{
+color: #fff;
+cursor: pointer;
+width: 45%;
+height: 82%;
+}
+
+.texto2:hover{
+color: #fff;
+cursor: pointer;
+width: 48%;
+}
+
+p{
+margin-top: 50%;
+align-items: center;
+text-align: center;
+}
+
+
+
+
+
+
+
 
 
