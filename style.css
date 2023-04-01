@@ -44,7 +44,7 @@ h1{
 width: 40%;
 position: absolute;
 left: 100px;
-font-size: 25px;
+font-size: 23px;
 text-shadow: 5px 6px 3px #000;
 background-color: rgba(0, 0, 0, 0.349);
 height: 100;
@@ -55,7 +55,7 @@ height: 100;
     width: 40%;
     position: absolute;
     left: 800px;
-    font-size: 25px;
+    font-size: 23px;
     text-shadow: 5px 6px 3px #000;
     background-color: rgba(0, 0, 0, 0.349);
     height: 50;
