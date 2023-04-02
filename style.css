@@ -47,7 +47,7 @@ left: 50px;
 font-size: 23px;
 text-shadow: 5px 6px 3px #000;
 background-color: rgba(0, 0, 0, 0.562);
-height: 89%;
+height: 93%;
 color: #939e7f;
 
 }
@@ -121,8 +121,24 @@ color: #939e7f;
     width: 50;
 }
 
+.btn3{
+   
+   Display: inline-block;
+ }
 
+.btn3:hover{
+font-size: 50px;
+}
+ .btn4{
+    Display: inline-block;
+ }
 
+ .btn4:hover{
+    font-size: 50px;
+    }
+    .btn5:hover{
+    font-size: 100px;
+        }
 
 a{
     Display: inline-block;
@@ -134,7 +150,7 @@ a{
 color: #fff;
 cursor: pointer;
 width: 45%;
-height: 82%;
+height: 87%;
 }
 
 .texto2:hover{
@@ -148,6 +164,7 @@ margin-top: 50%;
 align-items: center;
 text-align: center;
 }
+
 
 
 
