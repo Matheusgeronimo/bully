@@ -44,7 +44,7 @@ h1{
 width: 40%;
 position: absolute;
 left: 50px;
-font-size: 23px;
+font-size: 22px;
 text-shadow: 5px 6px 3px #000;
 background-color: rgba(0, 0, 0, 0.562);
 height: 93%;
@@ -56,8 +56,8 @@ color: #939e7f;
 .texto2{
     width: 45%;
     position: absolute;
-    left: 700px;
-    font-size: 23px;
+    left: 800px;
+    font-size: 22px;
     text-shadow: 5px 6px 3px #000;
     background-color: rgba(0, 0, 0, 0.562);
     height: 100;
