@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url(imagens/wallpaperflare.com7_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    text-shadow: 5px 6px 3px #000;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+h2{
+   color: #f8b6c8;
+   font-size: 32px;
+}

@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url(imagens/d9jq2uji2p241.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    text-shadow: 5px 6px 3px #000;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+h2{
+   color: #fff;
+   font-size: 32px;
+}
